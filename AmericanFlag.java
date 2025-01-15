@@ -1,5 +1,3 @@
-// Sheikh Ahmed, 33114212, programming, B.Sc. Computer Science, Ikram Rehman
-
 // series of for loops that print the flag line by line
 public class Flag
 {
