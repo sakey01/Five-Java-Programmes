@@ -1,5 +1,3 @@
-// Sheikh Ahmed, 33114212, programming, B.S.c Computer Science, Ikram Rehman
-
 // takes in the users height and weight, calculates their BMI, and outputs the corresponding weight category
 import java.util.Scanner;
 public class BMI
