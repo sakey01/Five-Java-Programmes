@@ -1,4 +1,3 @@
-// Sheikh Ahmed, 33114212, programming, B.S.c Computer Science, Ikram Rehman
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.Collections;
