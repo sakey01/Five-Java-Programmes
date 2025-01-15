@@ -1,5 +1,3 @@
-// Sheikh Ahmed, 33114212, programming, B.S.c Computer Science, Ikram Rehman
-
 /* I declared private attributes and used getters and setters to manipulate data.
 I have methods which returns the users monthly interest and allow them to 
 withdraw and deposit money into their virtual account */
